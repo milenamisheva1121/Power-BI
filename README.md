@@ -44,13 +44,10 @@ This report demonstrates a variety of Power BI skills and techniques, including:
 
 ## Library
 
- ![Dashboard page 1](./images/page%201.png)
-
-  ![Dashboard page 2](./images/page%202.png)
-
-  ![Dashboard page 3](./images/page%203.png)
-
-  ![Dashboard page 4](./images/page%204.png)
+<img width="662" height="376" alt="page 1" src="https://github.com/user-attachments/assets/9c7d865d-6ce6-43c6-9929-61eb029deb71" />
+<img width="671" height="377" alt="page 2" src="https://github.com/user-attachments/assets/c4956c6c-451a-416c-9799-26f4921d733b" />
+<img width="663" height="374" alt="page 3" src="https://github.com/user-attachments/assets/a3fc41e1-f7fc-43cf-8735-0215d663dbf4" />
+<img width="667" height="374" alt="page 4" src="https://github.com/user-attachments/assets/9eae4464-64e6-4d4e-8abe-627c5c5596e4" />
 
   ## Conclusion
 
