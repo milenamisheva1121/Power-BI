@@ -1,4 +1,4 @@
-# Dashboard Data - Orders - Power BI
+# Dashboard Data - Power BI
 
     
 
@@ -49,9 +49,16 @@ This report demonstrates a variety of Power BI skills and techniques, including:
 <img width="663" height="374" alt="page 3" src="https://github.com/user-attachments/assets/a3fc41e1-f7fc-43cf-8735-0215d663dbf4" />
 <img width="667" height="374" alt="page 4" src="https://github.com/user-attachments/assets/9eae4464-64e6-4d4e-8abe-627c5c5596e4" />
 
+
+<img width="696" height="391" alt="1 Page KPI" src="https://github.com/user-attachments/assets/79f52b33-a244-4448-b94d-7992ed73c3c5" />
+<img width="694" height="388" alt="2 Page Payments" src="https://github.com/user-attachments/assets/c3885721-a86b-4a08-846f-17c8ecd2056b" />
+<img width="695" height="390" alt="3 Page Balance" src="https://github.com/user-attachments/assets/237b657f-2f12-4642-ae67-484ffe12e390" />
+<img width="699" height="392" alt="4 Page Agencies" src="https://github.com/user-attachments/assets/6e13cded-6832-41fe-aca3-10c90b15329d" />
+
   ## Conclusion
 
-This report provides a comprehensive overview of **orders and returns**, offering stakeholders clear visibility into the business’s performance.  
+This report provides![Uploading 1 Page KPI.png…]()
+ a comprehensive overview of **orders and returns**, offering stakeholders clear visibility into the business’s performance.  
 By analyzing **key performance indicators (KPIs)** such as product sales, category performance, and return rates, the report highlights areas of strength as well as opportunities for improvement.  
 
 The use of **interactive dashboards, maps, and drill-down features** enables decision-makers to explore market trends, identify top-performing products, and monitor customer behavior more effectively.  
