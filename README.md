@@ -1,4 +1,4 @@
-#Power BI Dashboards Collection
+# Power BI Dashboards Collection
 
 This repository presents a collection of two Power BI reports, shared as images only (4 pages per report). The dashboards demonstrate a structured, KPI-driven approach to analytics, combining business understanding, data modeling, DAX logic, and user-centered design.
 All data used is dummy data. Power BI (.pbix) files are not included.
