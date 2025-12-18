@@ -3,16 +3,16 @@
 This repository presents a collection of two Power BI reports, shared as images only (4 pages per report). The dashboards demonstrate a structured, KPI-driven approach to analytics, combining business understanding, data modeling, DAX logic, and user-centered design.
 All data used is dummy data. Power BI (.pbix) files are not included.
 ----------------------
-#Report 1 – Product Performance & Returns Analysis
+## Report 1 – Product Performance & Returns Analysis
 A business-oriented report focused on product sales performance and return behavior, designed to support commercial and operational decision-making.
-##Business Objectives
+### Business Objectives
 ·	Identify best-performing products and categories
 ·	Detect products with high return rates
 ·	Monitor return rates as indicators of product quality and customer satisfaction
 ·	Explore market trends and patterns across customers and regions
 ·	Enable data-driven decisions for sales and operations teams
 ----------------------
-##What This Report Demonstrates
+### What This Report Demonstrates
 Data Preparation & Modeling
 ·	Data cleaning, transformation, and integration using Power Query
 ·	Structured data model with fact and dimension tables
@@ -36,7 +36,7 @@ User Experience Enhancements
 ·	Custom tooltips to add contextual detail without clutter
 ·	Dynamic titles and parameters for flexible analysis
 ----------------------
-#Report 2 – Collections, Risk & Payments Performance Dashboard
+## Report 2 – Collections, Risk & Payments Performance Dashboard
 A significantly more advanced and highly interactive report designed for collections, risk, and payments performance monitoring.
 This dashboard focuses on operational KPIs, anomaly detection, and performance efficiency rather than descriptive reporting.
 ----------------------
@@ -55,7 +55,7 @@ Analytical Scope
 	MCC
 	Country
 ----------------------
-##What This Report Demonstrates
+### What This Report Demonstrates
 Advanced KPI Design
 ·	KPI-driven layout aligned with operational decision-making
 ·	Clear separation between fraud and non-fraud balances
@@ -77,7 +77,7 @@ Visual & UX Design
 ·	Donut charts, maps, and KPI cards working together
 ·	Strong emphasis on explorability and insight discovery
 ----------------------
-DAX Highlights (Across Both Reports)
+## DAX Highlights (Across Both Reports)
 ·	KPI calculations and performance ratios
 ·	Time intelligence (monthly trends, comparisons)
 ·	Ranking and Top N logic
@@ -87,16 +87,16 @@ DAX Highlights (Across Both Reports)
 
 
 
-# Library
+## Library
 
-##Report 1
+### Report 1
 
 <img width="662" height="376" alt="page 1" src="https://github.com/user-attachments/assets/9c7d865d-6ce6-43c6-9929-61eb029deb71" />
 <img width="671" height="377" alt="page 2" src="https://github.com/user-attachments/assets/c4956c6c-451a-416c-9799-26f4921d733b" />
 <img width="663" height="374" alt="page 3" src="https://github.com/user-attachments/assets/a3fc41e1-f7fc-43cf-8735-0215d663dbf4" />
 <img width="667" height="374" alt="page 4" src="https://github.com/user-attachments/assets/9eae4464-64e6-4d4e-8abe-627c5c5596e4" />
 
-##Report 2
+### Report 2
 
 <img width="696" height="391" alt="1 Page KPI" src="https://github.com/user-attachments/assets/79f52b33-a244-4448-b94d-7992ed73c3c5" />
 <img width="694" height="388" alt="2 Page Payments" src="https://github.com/user-attachments/assets/c3885721-a86b-4a08-846f-17c8ecd2056b" />
